@@ -1,4 +1,5 @@
-<img width="942" alt="image" src="https://user-images.githubusercontent.com/80841323/181021658-dd6ae200-6667-4cbb-a296-0bbec12ff526.png">
+<img width="1500" alt="image" src="https://user-images.githubusercontent.com/80841323/181021862-82eb24ad-592f-4ec7-a0b0-91c57688c8f9.png">
+
 
 
 # Getting Started with Create React App
